@@ -1,3 +1,3 @@
 My Code Tutorial
 ===================
-Run $python hw1.py on your terminal.
+Run $python hw_sphinx_Sham_Jacques.py on your terminal.

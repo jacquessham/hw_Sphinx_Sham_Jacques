@@ -1,5 +1,5 @@
 Auto Generated Code Documentation
 =================================
-.. automodule:: hw_sphinx
+.. automodule:: hw_sphinx_Sham_Jacques
 	:members:
 	:undoc-members:
